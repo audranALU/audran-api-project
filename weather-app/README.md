@@ -21,16 +21,11 @@ This app can be accessed locally or through a load balancer in a Dockerized mult
 
 ---
 
-## Screenshots
-*(Add your screenshots or video demo here if you like)*
-
----
-
 ## API Used
 
 - **OpenWeatherMap API**
   - Docs: https://openweathermap.org/api
-  - Note: Replace the placeholder API key in `script.js` with your actual key.
+  - API KEY: 91bcf6d03bb3c1ea49c528968e48776b
 
 ---
 
